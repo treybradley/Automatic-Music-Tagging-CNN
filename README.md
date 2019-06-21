@@ -1,6 +1,6 @@
 # Automatic-Music-Tagging-CNN
 
-Here you will find code and description of a CNN model that was used to build a music tagging system--the final project of myself and another classmate for Dr. Juan Bello's Music Info Retrieval course: https://wp.nyu.edu/jpbello/teaching/mir/
+Here you will find code and description of a CNN model that was used to build a music tagging system--the final project of myself and another classmate for Dr. Juan P. Bello's Music Info Retrieval course: https://wp.nyu.edu/jpbello/teaching/mir/
 
 NOTES:
 1. The project contains files for "CNN", "Database_processing_code","KNN" and "Random_forest" codes.
